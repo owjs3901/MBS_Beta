@@ -18,7 +18,7 @@ class Economy : JavaPlugin(), Listener {
     private var time: Long = 10
     private var timeMoney = 10
     private var data: FileConfiguration? = null;
-    private val dataFile = File("plugins/Economy/money.yml")
+    private val dataFile = File("plugins/Guild/guild.yml")
 
     private val moneyMap = HashMap<UUID, Int>()
     private val timeMap = HashMap<UUID, Int>()

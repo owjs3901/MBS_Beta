@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Economy" />
             <option value="$PROJECT_DIR$/EventMessage" />
+            <option value="$PROJECT_DIR$/Guild" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />

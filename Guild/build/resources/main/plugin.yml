@@ -1,0 +1,9 @@
+name: Economy
+version: 1.0-SNAPSHOT
+main: mbs.beta.economy.Economy
+api-version: 1.13
+authors: [M]
+description: test
+commands:
+  money:
+    aliases: [돈]
