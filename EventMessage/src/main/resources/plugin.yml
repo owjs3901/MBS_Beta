@@ -1,4 +1,4 @@
 name: EventMessage
 version: @version@
 main: mbs.beta.event_message.EventMessage
-authors: [M]
+authors: [M, Daybreak]
